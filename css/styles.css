@@ -1,3 +1,10 @@
 #answer {
   display: none;
+  margin-top: 40px;
+  font-size: 24px;
+}
+
+span{
+  font-weight: bold;
+  color: blue;
 }
